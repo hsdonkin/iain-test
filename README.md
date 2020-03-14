@@ -14,10 +14,10 @@ Install the `node_modules` (libraries) needed for this program
 npm i
 ```
 
-Start up the program with `npm`
+Start up the program in a live development server with `npm`
 
 ```
-npm run start
+npm run dev
 ```
 
 Visit the following address to use the keyboard locally
