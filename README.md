@@ -5,7 +5,7 @@
 Open terminal and `cd` into this directory
 
 ```
-cd iains-keyboard
+cd node-keyboard
 ```
 
 Install the `node_modules` (libraries) needed for this program
